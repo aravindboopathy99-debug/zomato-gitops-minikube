@@ -31,6 +31,11 @@
 
 #  9. Push Final Kubernetes YAMLs to GitHub
 
+<img width="251" height="92" alt="image" src="https://github.com/user-attachments/assets/195ce546-ae21-4cf3-b9e9-906bd9571b0f" />
+
+#  10. Self-healing pod recreation
+<img width="1917" height="262" alt="image" src="https://github.com/user-attachments/assets/ef52dcd3-d62c-45ca-a8d3-6f33b1d8c6bf" />
+
 
 
 
